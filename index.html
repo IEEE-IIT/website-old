@@ -19,12 +19,12 @@ weight: 0
   </p>
 </div>
         <article id="row5">
-            <div>6</div>
-            <div>6</div>
+            <div>Announcements</div>
+            <div>Opportunities</div>
         </article>
 
         <article id="row6">
-            <div>
+            <div>Newsletter<br>
             <div class="posts">
             {% for post in paginator.posts %}
             <div class="post">
@@ -41,7 +41,7 @@ weight: 0
             </div>
         </article>
 
-
+<!---
 <div class="pagination">
   {% if paginator.next_page %}
     <a class="pagination-item older" href="{{ site.baseurl }}/page{{paginator.next_page}}">Older</a>
@@ -58,4 +58,4 @@ weight: 0
     <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
-
+--->
