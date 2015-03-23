@@ -158,6 +158,7 @@ footer div #meta div:first-child {
 @media screen and (min-width: 700px) {
   footer div #meta div:first-child {
     float: center;
+    width: 100%;
     margin-right: -100%;
     font-size: 12px;
     text-align: center;
