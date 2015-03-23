@@ -145,9 +145,9 @@ footer div #meta div:first-child {
   font-weight: normal;
   font-size: 10px;
   color: #f3f3f3;
-  line-height: 24px;
+  line-height: 1.5;
   text-align: center;
-  margin-top: 55px;
+  margin-top: 25px;
 }
 
 @media screen and (min-width: 460px) {
@@ -164,7 +164,7 @@ footer div #meta div:first-child {
     font-size: 12px;
     text-align: left;
     margin-top: 0px;
-    line-height: 12px;
+    line-height: 1.5;
   }
 }
 
