@@ -221,12 +221,12 @@ footer div #meta div:nth-child(2) a:nth-child(2) {
 }
 article div {
   height: 80px;
-  background: #fff200;
+  background: #454545;
   font-family: 'Raleway', Arial, sans-serif;
   font-weight: 900;
   font-size: 24px;
   text-align: center;
-  color: #454545;
+  color: #ffffff;
   line-height: 80px;
 }
 
@@ -418,6 +418,7 @@ article {
     float: left;
     margin-right: -100%;
     width: 100%;
+    overflow: scroll;
   }
 }
 @media all and (min-width: 960px) {
