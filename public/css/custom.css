@@ -220,7 +220,7 @@ footer div #meta div:nth-child(2) a:nth-child(2) {
   outline: none;
 }
 article div {
-  height: 80px;
+  height: 200px;
   background: #454545;
   color: #ffffff;
   line-height: 12px;
@@ -275,7 +275,7 @@ article {
     margin-left: 0%;
     margin-bottom: 2%;
     clear: both;
-    overflow: scroll;
+    overflow: hidden;
     *zoom: 1;
   }
   #row5 div:nth-child(2n+2) {
