@@ -240,7 +240,7 @@ article div {
 article {
   width: 98%;
   margin: 0 1%;
-  overflow: scroll;
+  overflow: hidden;
   *zoom: 1;
 }
 
@@ -261,7 +261,7 @@ article {
   article {
     width: 98%;
     margin: 0 1%;
-    overflow: scroll;
+    overflow: hidden;
     *zoom: 1;
   }
 
@@ -420,7 +420,7 @@ article {
   article {
     width: 98%;
     margin: 0 1%;
-    overflow: scroll;
+    overflow: hidden;
     *zoom: 1;
   }
 
