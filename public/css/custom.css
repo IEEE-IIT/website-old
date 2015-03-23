@@ -69,18 +69,136 @@
   line-height: 1.15rem;
 }
 /* FOOTER */
-.footer#footer {
-  font-size: 0.75em;
-  text-align: center;
-  margin: 1rem auto;
-}
-
-.footer#footer p {
+center {
   margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  font-size: 100%;
+  vertical-align: baseline;
 }
 
-.footer#footer #socialmedia {
-  font-size: 1.5em;
+footer {
+  width: 100%;
+  background: #003366;
+  color: white;
+  margin-top: 60px;
+}
+footer div {
+  width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
+}
+footer div h3 {
+  font-family: 'Raleway', Arial, sans-serif;
+  font-weight: 200;
+  font-size: 16px;
+  padding-top: 80px;
+  padding-bottom: 0px;
+  text-align: center;
+  letter-spacing: 5px;
+}
+footer div #company {
+  overflow: hidden;
+  *zoom: 1;
+  width: 98%;
+  margin: 0 1%;
+  max-width: 100%;
+  text-align: center;
+}
+footer div #company a {
+  text-align: center;
+  color: white;
+  text-decoration: none;
+  height: 22px;
+  display: block;
+  background: url("/public/apple-touch-icon-precomposed.png") top center no-repeat;
+  font-family: 'Raleway', Arial, sans-serif;
+  font-weight: 900;
+  font-size: 24px;
+  letter-spacing: 8px;
+  color: white;
+  padding-left: 13px;
+  padding-top: 113px;
+}
+footer div #meta {
+  overflow: hidden;
+  *zoom: 1;
+  width: 98%;
+  margin: 0 1%;
+  max-width: 100%;
+  padding-top: 20px;
+  margin-top: 80px;
+  padding-bottom: 20px;
+  border-top: 1px solid #3b3b3b;
+}
+footer div #meta div:first-child {
+  float: left;
+  margin-right: -100%;
+  width: 100%;
+  text-align: left;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: normal;
+  font-size: 10px;
+  color: #898989;
+  line-height: 12px;
+  text-align: center;
+  margin-top: 55px;
+}
+footer div #meta div:nth-child(2) {
+  float: left;
+  margin-right: -100%;
+  width: 100%;
+  margin-left: 0%;
+  text-align: center;
+}
+footer div #meta div:nth-child(2) a {
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  text-indent: -1000px;
+  overflow: hidden;
+  text-align: left;
+  opacity: 1;
+  filter: alpha(opacity=100);
+  -webkit-transition: 0.25s ease-out;
+  -moz-transition: 0.25s ease-out;
+  -o-transition: 0.25s ease-out;
+  transition: 0.25s ease-out;
+}
+footer div #meta div:nth-child(2) a:hover {
+  opacity: 0.6;
+  filter: alpha(opacity=60);
+}
+footer div #meta div:nth-child(2) a:first-child {
+  background-position: 0 -217px;
+}
+footer div #meta div:nth-child(2) a:nth-child(2) {
+  background-position: 0 -170px;
+}
+
+@media screen and (min-width: 460px) {
+  footer div #meta div:first-child {
+    font-size: 12px;
+  }
+}
+@media screen and (min-width: 700px) {
+  footer div #meta div:first-child {
+    float: left;
+    margin-right: -100%;
+    width: 74.5%;
+    font-size: 12px;
+    text-align: left;
+    margin-top: 0px;
+    line-height: 50px;
+  }
+  footer div #meta div:nth-child(2) {
+    float: left;
+    margin-right: -100%;
+    width: 23.5%;
+    margin-left: 76.5%;
+    text-align: right;
+  }
 }
 /* GRID */
 #grid {
