@@ -158,12 +158,12 @@ footer div #meta div:first-child {
 @media screen and (min-width: 700px) {
   footer div #meta div:first-child {
     float: center;
-    width: 100%;
+    width: 74.5%;
     margin-right: -100%;
     font-size: 12px;
     text-align: center;
     margin-top: 0px;
-    line-height: 2;
+    line-height: 24px;
   }
 }
 /* GRID */
