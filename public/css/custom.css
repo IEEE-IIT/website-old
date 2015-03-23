@@ -133,7 +133,7 @@ footer div #meta {
   padding-bottom: 20px;
   border-top: 1px solid #3b3b3b;
 }
-footer div #meta div:first-child {
+footer div #meta div:nth-child {
   float: left;
   margin-right: -100%;
   width: 100%;
