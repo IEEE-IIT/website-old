@@ -222,12 +222,8 @@ footer div #meta div:nth-child(2) a:nth-child(2) {
 article div {
   height: 80px;
   background: #454545;
-  font-family: 'Raleway', Arial, sans-serif;
-  font-weight: 900;
-  font-size: 24px;
-  text-align: center;
   color: #ffffff;
-  line-height: 80px;
+  line-height: 12px;
 }
 
 #grid {
