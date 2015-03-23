@@ -156,6 +156,17 @@ footer div #meta div:first-child {
   }
 }
 
+@media screen and (min-width: 700px) {
+  footer div #meta div:first-child {
+    float: center;
+    margin-left: -100%;
+    width: 74.5%;
+    font-size: 12px;
+    text-align: center;
+    margin-top: 0px;
+    line-height: 24px;
+  }
+
 /* GRID */
 #grid {
   width: 100%;
