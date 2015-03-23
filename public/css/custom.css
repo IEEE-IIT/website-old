@@ -111,10 +111,9 @@ footer div #company a {
   text-align: center;
   color: white;
   text-decoration: none;
-  height: 50px;
+  height: 22px;
   display: block;
-  background: url("/website/public/apple-touch-icon-precomposed.png") top center no-repeat;
-  background-size: 112px 112px;
+  background: url("/website/public/apple-touch-icon-precomposed.png") size 112px 112px top center no-repeat;
   font-family: 'Raleway', Arial, sans-serif;
   font-weight: 900;
   font-size: 24px;
