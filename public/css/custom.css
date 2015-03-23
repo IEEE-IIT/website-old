@@ -281,6 +281,7 @@ article {
     margin-left: 51%;
     margin-bottom: 2%;
     clear: none;
+    overflow: scroll;
   }
 
   #row6 div {
@@ -314,6 +315,7 @@ article {
     margin-left: 51%;
     margin-bottom: 2%;
     clear: none;
+    overflow: scroll;
   }
 
   #row6 div {
