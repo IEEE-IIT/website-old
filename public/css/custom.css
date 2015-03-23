@@ -401,7 +401,7 @@ article {
     margin-left: 0%;
     margin-bottom: 2%;
     clear: both;
-    overflow: scroll;
+    overflow: hidden;
     *zoom: 1;
   }
   #row5 div:nth-child(2n+2) {
@@ -595,7 +595,7 @@ article {
     margin-left: 0%;
     margin-bottom: 2%;
     clear: both;
-    overflow: scroll;
+    overflow: hidden;
     *zoom: 1;
   }
   #row5 div:nth-child(2n+2) {
