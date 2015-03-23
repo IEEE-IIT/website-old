@@ -224,7 +224,6 @@ article div {
   background: #454545;
   color: #ffffff;
   line-height: 12px;
-  
 }
 
 #grid {
@@ -262,7 +261,7 @@ article {
   article {
     width: 98%;
     margin: 0 1%;
-    overflow: scroll;
+    overflow: hidden;
     *zoom: 1;
   }
 
@@ -275,7 +274,7 @@ article {
     margin-left: 0%;
     margin-bottom: 2%;
     clear: both;
-    overflow: hidden;
+    overflow: scroll;
     *zoom: 1;
   }
   #row5 div:nth-child(2n+2) {
@@ -288,13 +287,14 @@ article {
     float: left;
     margin-right: -100%;
     width: 100%;
+    overflow: scroll;
   }
 }
 @media all and (min-width: 960px) {
   article {
     width: 98%;
     margin: 0 1%;
-    overflow: scroll;
+    overflow: hidden;
     *zoom: 1;
   }
 
@@ -307,7 +307,7 @@ article {
     margin-left: 0%;
     margin-bottom: 2%;
     clear: both;
-    overflow: hidden;
+    overflow: scroll;
     *zoom: 1;
   }
   #row5 div:nth-child(2n+2) {
@@ -320,5 +320,6 @@ article {
     float: left;
     margin-right: -100%;
     width: 100%;
+    overflow: scroll;
   }
 }
