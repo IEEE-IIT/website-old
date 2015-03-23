@@ -224,6 +224,7 @@ article div {
   background: #454545;
   color: #ffffff;
   line-height: 12px;
+  overflow: scroll;
 }
 
 #grid {
@@ -253,7 +254,7 @@ article {
   margin-left: 0%;
   margin-bottom: 2%;
   clear: both;
-  overflow: scroll;
+  overflow: hidden;
   *zoom: 1;
 }
 
