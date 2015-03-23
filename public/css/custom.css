@@ -253,7 +253,7 @@ article {
   margin-left: 0%;
   margin-bottom: 2%;
   clear: both;
-  overflow: scroll;
+  overflow: hidden;
   *zoom: 1;
 }
 
@@ -274,21 +274,21 @@ article {
     margin-left: 0%;
     margin-bottom: 2%;
     clear: both;
-    overflow: scroll;
+    overflow-y: scroll;
     *zoom: 1;
   }
   #row5 div:nth-child(2n+2) {
     margin-left: 51%;
     margin-bottom: 2%;
     clear: none;
-    overflow: scroll;
+    overflow-y: scroll;
   }
 
   #row6 div {
     float: left;
     margin-right: -100%;
     width: 100%;
-    overflow: scroll;
+    overflow-y: scroll;
   }
 }
 @media all and (min-width: 960px) {
@@ -308,20 +308,20 @@ article {
     margin-left: 0%;
     margin-bottom: 2%;
     clear: both;
-    overflow: scroll;
+    overflow-y: scroll;
     *zoom: 1;
   }
   #row5 div:nth-child(2n+2) {
     margin-left: 51%;
     margin-bottom: 2%;
     clear: none;
-    overflow: scroll;
+    overflow-y: scroll;
   }
 
   #row6 div {
     float: left;
     margin-right: -100%;
     width: 100%;
-    overflow: scroll;
+    overflow-y: scroll;
   }
 }
