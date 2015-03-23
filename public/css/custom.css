@@ -160,6 +160,7 @@ footer div #meta div:first-child {
     float: center;
     width: 74.5%;
     font-size: 12px;
+    margin-right: -100%;
     text-align: center;
     margin-top: 55px;
     line-height: 50px;
