@@ -90,6 +90,7 @@ footer div {
   margin: 0 auto;
 }
 footer div h3 {
+  color: white;
   font-family: 'Raleway', Arial, sans-serif;
   font-weight: 200;
   font-size: 16px;
@@ -113,7 +114,7 @@ footer div #company a {
   height: 22px;
   display: block;
   background: url("/website/public/apple-touch-icon-precomposed.png") top center no-repeat;
-  background-size: 144px 144px;
+  background-size: 70px 70px;
   font-family: 'Raleway', Arial, sans-serif;
   font-weight: 900;
   font-size: 24px;
@@ -133,11 +134,11 @@ footer div #meta {
   padding-bottom: 20px;
   border-top: 1px solid #3b3b3b;
 }
-footer div #meta div:nth-child {
+footer div #meta div:first-child {
   float: left;
   margin-right: -100%;
   width: 100%;
-  text-align: left;
+  text-align: center;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: normal;
   font-size: 10px;
@@ -161,13 +162,6 @@ footer div #meta div:nth-child {
     text-align: left;
     margin-top: 0px;
     line-height: 50px;
-  }
-  footer div #meta div:nth-child(2) {
-    float: left;
-    margin-right: -100%;
-    width: 23.5%;
-    margin-left: 76.5%;
-    text-align: right;
   }
 }
 /* GRID */
