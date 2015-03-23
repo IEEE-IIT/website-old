@@ -17,27 +17,33 @@ weight: 0
     {% endfor %}
     or click/tap the menu icon on the left for more information.
   </p>
-
-  <p>
-    <strong>About IEEE@IIT:</strong> IEEE (pronounced I-Triple-E), which stands for the Institute of Electrical and Electronics Engineers, is known as the world's largest professional association for the advancement of technology. Here at the Illinois Institute of Technology, IEEE represents one of the largest student organizations on campus. Though it may seem from the name that we consist of students only from the Electrical and Computer Engineering department, we in fact encompass all different engineering fields and welcome this diversity. Our organization strives to further students' professional and educational development through a wide array of opportunities. Please take a look at what we have to offer, and come visit the IEEE Office located in Siegel Hall 013!
-  </p>
 </div>
+        <article id="row5">
+            <div>6</div>
+            <div>6</div>
+        </article>
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+        <article id="row6">
+            <div>
+            <div class="posts">
+            {% for post in paginator.posts %}
+            <div class="post">
+               <h1 class="post-title">
+               <a href="{{ site.baseurl }}{{ post.url }}">
+                {{ post.title }}
+               </a>
+              </h1>
 
-    <span class="post-date">{{ post.date | date: "%B %-d, %Y" }}</span>
+            <span class="post-date">{{ post.date | date: "%B %-d, %Y" }}</span>
 
-    {{ post.content }}
-  </div>
-  {% endfor %}
-</div>
+            {{ post.content }}
+            </div>
+             {% endfor %}
+            </div>
+              
+            </div>
+        </article>
+
 
 <div class="pagination">
   {% if paginator.next_page %}
