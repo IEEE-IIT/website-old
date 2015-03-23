@@ -159,11 +159,10 @@ footer div #meta div:first-child {
   footer div #meta div:first-child {
     float: center;
     margin-right: -100%;
-    width: 74.5%;
     font-size: 12px;
     text-align: center;
     margin-top: 0px;
-    line-height: 50px;
+    line-height: 2;
   }
 }
 /* GRID */
