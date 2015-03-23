@@ -1,20 +1,12 @@
-<div class="footer container" id="footer">
-  <nav class="footer-nav">
-    | <a class="footer-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Home</a> |
-
-    {% assign pages_list = site.pages | sort:"weight" %}
-    {% for node in pages_list %}
-      {% if node.title != null %}
-        {% if node.layout == "page" %}
-          <a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a> |
-        {% endif %}
-      {% endif %}
-    {% endfor %}
-  </nav>
-
-  <div class="footer-item">
+<footer>
+  <div class="center">
+    <section id="company">
+    </section>
     <p>
       &copy; {{ site.time | date: '%Y' }} Illinois Institute of Technology IEEE Student Branch. All rights reserved.
+    </p>
+    <p>
+    <strong>About IEEE@IIT:</strong> IEEE (pronounced I-Triple-E), which stands for the Institute of Electrical and Electronics Engineers, is known as the world's largest professional association for the advancement of technology. Here at the Illinois Institute of Technology, IEEE represents one of the largest student organizations on campus. Though it may seem from the name that we consist of students only from the Electrical and Computer Engineering department, we in fact encompass all different engineering fields and welcome this diversity. Our organization strives to further students' professional and educational development through a wide array of opportunities. Please take a look at what we have to offer, and come visit the IEEE Office located in Siegel Hall 013!
     </p>
     <p id="socialmedia">
       <a href="https://www.facebook.com/IEEEIIT" target="_blank" title="Like on Facebook"><i class="fa fa-facebook-square"></i></a>
@@ -23,4 +15,5 @@
       <a href="http://www.linkedin.com/groups/IEEE-Chicago-Section-2073200" target="_blank" title="Connect on LinkedIn"><i class="fa fa-linkedin-square"></i></a>
     </p>
   </div>
-</div>
+
+</footer>
