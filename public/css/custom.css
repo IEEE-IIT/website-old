@@ -126,6 +126,7 @@ footer div #company a {
   height: 22px;
   display: block;
   background: url("/website/public/apple-touch-icon-precomposed.png") top center no-repeat;
+  background-size: 112px 112px;
   font-family: 'Raleway', Arial, sans-serif;
   font-weight: 900;
   font-size: 24px;
@@ -197,13 +198,13 @@ footer div #meta div:nth-child(2) a:nth-child(2) {
 }
 @media screen and (min-width: 700px) {
   footer div #meta div:first-child {
-    float: left;
+    float: center;
     margin-right: -100%;
-    width: 74.5%;
+    width: 100%;
     font-size: 12px;
-    text-align: left;
-    margin-top: 0px;
-    line-height: 50px;
+    text-align: center;
+    margin-top: 25px;
+    line-height: 10px;
   }
   footer div #meta div:nth-child(2) {
     float: left;
