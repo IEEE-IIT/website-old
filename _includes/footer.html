@@ -1,26 +1,20 @@
-<div class="footer container" id="footer">
-  <nav class="footer-nav">
-    | <a class="footer-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Home</a> |
-
-    {% assign pages_list = site.pages | sort:"weight" %}
-    {% for node in pages_list %}
-      {% if node.title != null %}
-        {% if node.layout == "page" %}
-          <a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a> |
-        {% endif %}
-      {% endif %}
-    {% endfor %}
-  </nav>
-
-  <div class="footer-item">
-    <p>
-      &copy; {{ site.time | date: '%Y' }} Illinois Institute of Technology IEEE Student Branch. All rights reserved.
-    </p>
-    <p id="socialmedia">
-      <a href="https://www.facebook.com/IEEEIIT" target="_blank" title="Like on Facebook"><i class="fa fa-facebook-square"></i></a>
-      <a href="https://twitter.com/ieeeiit" target="_blank" title="Follow on Twitter"><i class="fa fa-twitter-square"></i></a>
+<footer>
+  <div class="center">
+  <h3>IEEE@IIT</h3>
+    <section id="company">
+      <a href="http://ieee.iit.edu">IEEE Student Branch at Illinois Institute of Technology</a>
+    </section>
+    <section id="meta">
+    <div>
+        <b>About IEEE@IIT:</b> IEEE (pronounced I-Triple-E), which stands for the Institute of Electrical and Electronics Engineers, is known as the world's largest professional association for the advancement of technology. Here at the Illinois Institute of Technology, IEEE represents one of the largest student organizations on campus. Though it may seem from the name that we consist of students only from the Electrical and Computer Engineering department, we in fact encompass all different engineering fields and welcome this diversity. Our organization strives to further students' professional and educational development through a wide array of opportunities. Please take a look at what we have to offer, and come visit the IEEE Office located in Siegel Hall 013! 
+          <br><br>&copy; {{ site.time | date: '%Y' }} Illinois Institute of Technology IEEE Student Branch. All rights reserved.
+    </div>
+    <p id="socialmedia" align=center>
+      <a href="" target="_blank" title="Like on Facebook"><i class="fa fa-facebook-square"></i></a>
+      <a href="" target="_blank" title="Follow on Twitter"><i class="fa fa-twitter-square"></i></a>
       <a href="https://github.com/IEEE-IIT" target="_blank" title="Fork on GitHub"><i class="fa fa-github-square"></i></a>
       <a href="http://www.linkedin.com/groups/IEEE-Chicago-Section-2073200" target="_blank" title="Connect on LinkedIn"><i class="fa fa-linkedin-square"></i></a>
     </p>
+    </section>
   </div>
-</div>
+</footer>
