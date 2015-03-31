@@ -34,6 +34,7 @@ This is the website for the IEEE Illinois Institute of Technology student branch
     │   ├── 2013-03-08-ieeeiit-hosts-first-meeting-semester.md (example post)
     │   └── 2013-04-06-ieee-second-general-meeting.md
     ├── projects.md (projects page)
+    ├── jobopportunities.html (job listings page)
     ├── public (for public assets)
     │   ├── apple-touch-icon-precomposed.png (iOS icon)
     │   ├── css (for any styling)
