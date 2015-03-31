@@ -2,6 +2,7 @@
 title: Eaton Corporation Tour
 author: Eric Tendian
 layout: post
+category: home
 permalink: /event/eaton-corporation-tour/
 ---
 

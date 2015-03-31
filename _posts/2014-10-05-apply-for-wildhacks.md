@@ -2,6 +2,7 @@
 title: Apply for the WildHacks Hackathon!
 author: Eric Tendian
 layout: post
+category: home
 permalink: /2014/10/apply-for-wildhacks/
 ---
 

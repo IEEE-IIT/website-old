@@ -2,6 +2,7 @@
 title: IEEE Computer Society Chicago Chapter - Inaugural Technical Meeting
 author: Eric Tendian
 layout: post
+category: home
 permalink: /event/ieee-computer-society-chicago-chapter-inaugural-technical-meeting/
 ---
 

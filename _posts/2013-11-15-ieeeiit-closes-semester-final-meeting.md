@@ -2,6 +2,7 @@
 title: IEEE@IIT closes semester with final meeting
 author: Vijai
 layout: post
+category: home
 permalink: /2013/11/ieeeiit-closes-semester-final-meeting/
 ---
 

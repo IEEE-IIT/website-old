@@ -2,6 +2,7 @@
 title: IEEE Second General Meeting
 author: Vijai
 layout: post
+category: home
 permalink: /2013/04/ieee-second-general-meeting/
 ---
 

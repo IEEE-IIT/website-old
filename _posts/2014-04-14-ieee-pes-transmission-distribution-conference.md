@@ -2,6 +2,7 @@
 title: IEEE PES Transmission & Distribution Conference
 author: Eric Tendian
 layout: post
+category: home
 permalink: /event/ieee-pes-transmission-distribution-conference/
 ---
 

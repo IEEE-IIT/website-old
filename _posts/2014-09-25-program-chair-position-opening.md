@@ -2,6 +2,7 @@
 title: Program Chair Position Opening
 author: Sijia Wu
 layout: post
+category: home
 permalink: /2014/09/program-chair-position-opening/
 ---
 

@@ -2,6 +2,7 @@
 title: 2014 IEEE Region 4 Student Leadership Training
 author: Eric Tendian
 layout: post
+category: home
 permalink: /2014/10/ieee-region-4-student-leadership-training/
 ---
 

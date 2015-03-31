@@ -2,6 +2,7 @@
 title: Special Lecture on Beam Based Imaging and Inverse Scattering
 author: Robert Burke
 layout: post
+category: home
 permalink: /2014/10/beam-based-imaging-inverse-scattering/
 ---
 

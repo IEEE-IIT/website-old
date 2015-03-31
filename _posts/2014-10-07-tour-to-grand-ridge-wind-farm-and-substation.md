@@ -2,6 +2,7 @@
 title: IEEE PES Student tour to Grand Ridge Wind Farm and Substation
 author: Eric Tendian
 layout: post
+category: home
 permalink: /2014/10/tour-to-grand-ridge-wind-farm-and-substation/
 ---
 

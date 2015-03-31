@@ -2,6 +2,7 @@
 title: IEEE@IIT invites National Instruments, Goldman Sachs to campus
 author: Vijai
 layout: post
+category: home
 permalink: /2013/10/ieeeiit-invites-national-instruments-goldman-sachs-campus/
 ---
 

@@ -25,7 +25,8 @@ weight: 0
 
 <div class="posts">
   {% for post in paginator.posts %}
-  <div class="post">
+    {% if post.category != 'jobs' %}
+    <div class="post">
     <h1 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}
@@ -34,9 +35,17 @@ weight: 0
 
     <span class="post-date">{{ post.date | date: "%B %-d, %Y" }}</span>
 
-    {{ post.content }}
+    {% if post.description %}
+        {{ post.description }}
+        </br><a href="{{ post.url }}" title="{{ post.title }}">Read more..</a>
+    {% else %}
+       {{ post.content }}
+    {% endif %}
+    
+    
   </div>
-  {% endfor %}
+  {% endif %}
+ {% endfor %}
 </div>
 
 <div class="pagination">

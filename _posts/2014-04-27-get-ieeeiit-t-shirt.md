@@ -2,6 +2,7 @@
 title: Get your own IEEE@IIT T-shirt!
 author: Eric Tendian
 layout: post
+category: home
 permalink: /2014/04/get-ieeeiit-t-shirt/
 ---
 

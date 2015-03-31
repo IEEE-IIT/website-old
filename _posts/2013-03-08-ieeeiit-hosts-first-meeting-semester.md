@@ -2,6 +2,7 @@
 title: IEEE@IIT hosts first meeting of semester
 author: Vijai
 layout: post
+category: home
 permalink: /2013/03/ieeeiit-hosts-first-meeting-semester/
 ---
 

@@ -2,6 +2,7 @@
 title: IEEEXtreme Programming Competiton Practice
 author: Eric Tendian
 layout: post
+category: home
 permalink: /2014/10/ieeextreme-programming-competition-practice/
 ---
 

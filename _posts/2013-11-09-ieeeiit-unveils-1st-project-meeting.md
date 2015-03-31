@@ -2,6 +2,7 @@
 title: IEEE@IIT unveils 1st Project Meeting
 author: Vijai
 layout: post
+category: home
 permalink: /2013/11/ieeeiit-unveils-1st-project-meeting/
 ---
 

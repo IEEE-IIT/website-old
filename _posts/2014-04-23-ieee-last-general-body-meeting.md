@@ -2,6 +2,7 @@
 title: IEEE Last General Body Meeting
 author: Eric Tendian
 layout: post
+category: home
 permalink: /event/ieee-last-general-body-meeting/
 ---
 

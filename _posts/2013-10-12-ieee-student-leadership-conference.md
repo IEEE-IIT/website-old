@@ -2,6 +2,7 @@
 title: IEEE Student Leadership Conference
 author: Vijai
 layout: post
+category: home
 permalink: /2013/10/ieee-student-leadership-conference/
 ---
 

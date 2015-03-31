@@ -2,6 +2,7 @@
 title: First General Body Meeting of Fall 2014
 author: Eric Tendian
 layout: post
+category: home
 permalink: /event/first-general-body-meeting-of-fall-2014/
 ---
 

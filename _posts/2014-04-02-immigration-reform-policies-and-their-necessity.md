@@ -2,6 +2,7 @@
 title: 'Immigration Reform: Policies and their necessity'
 author: Eric Tendian
 layout: post
+category: home
 permalink: /event/immigration-reform-policies-and-their-necessity/
 ---
 

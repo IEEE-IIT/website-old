@@ -2,6 +2,7 @@
 title: Guest Speaker Session by Goldman Sachs
 author: Eric Tendian
 layout: post
+category: home
 permalink: /event/guest-speaker-session-by-goldman-sachs/
 ---
 

@@ -2,6 +2,7 @@
 title: USC Graduate Program Info Session
 author: Eric Tendian
 layout: post
+category: home
 permalink: /2014/10/usc-graduate-program-info-session/
 ---
 

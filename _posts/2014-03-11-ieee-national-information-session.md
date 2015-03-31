@@ -2,6 +2,7 @@
 title: IEEE National Information Session
 author: Eric Tendian
 layout: post
+category: home
 permalink: /2014/03/ieee-national-information-session/
 ---
 

@@ -2,6 +2,7 @@
 title: S&C Electric Company Tour [CANCELLED]
 author: Eric Tendian
 layout: post
+category: home
 permalink: /event/sc-electric-company-tour/
 ---
 

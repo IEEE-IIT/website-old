@@ -2,6 +2,7 @@
 title: IEEE First Project Meeting
 author: Eric Tendian
 layout: post
+category: home
 permalink: /event/ieee-first-project-meeting/
 ---
 

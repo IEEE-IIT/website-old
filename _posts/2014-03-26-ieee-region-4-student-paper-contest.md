@@ -2,6 +2,7 @@
 title: IEEE Region 4 Student Paper Contest
 author: Eric Tendian
 layout: post
+category: home
 permalink: /2014/03/ieee-region-4-student-paper-contest/
 ---
 

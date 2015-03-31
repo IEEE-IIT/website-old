@@ -2,6 +2,7 @@
 title: IEEE@IIT’s first General Meeting, ECE Department BBQ
 author: Vijai
 layout: post
+category: home
 permalink: /2013/09/ieeeiits-first-general-meeting-ece-department-bbq/
 ---
 

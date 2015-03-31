@@ -2,6 +2,7 @@
 title: Welcome to the new IEEE chapter website!
 author: IEEE Executive Board
 layout: post
+category: home
 permalink: /2014/01/welcome-new-ieee-chapter-website/
 ---
 

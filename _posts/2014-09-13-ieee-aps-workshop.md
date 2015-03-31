@@ -2,6 +2,7 @@
 title: IEEE APS Workshop
 author: Sijia Wu
 layout: post
+category: home
 permalink: /event/ieee-aps-workshop/
 ---
 

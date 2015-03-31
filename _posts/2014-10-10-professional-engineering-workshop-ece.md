@@ -2,6 +2,7 @@
 title: Professional Engineering (P.E.) Workshop for Computer and Electrical Engineers
 author: Eric Tendian
 layout: post
+category: home
 permalink: /2014/10/professional-engineering-workshop-ece/
 ---
 

@@ -2,6 +2,7 @@
 title: IEEE@IIT Halloween BBQ 2013
 author: Eric Tendian
 layout: post
+category: home
 permalink: /event/ieee-iit-halloween-bbq-2013/
 ---
 

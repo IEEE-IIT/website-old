@@ -2,6 +2,7 @@
 title: Goldman Sachs Tech Talk
 author: Sijia Wu
 layout: post
+category: home
 permalink: /event/goldman-sachs-tech-talk/
 ---
 

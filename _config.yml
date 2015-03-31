@@ -12,8 +12,8 @@ relative_permalinks: true
 title:               IEEE@IIT
 tagline:             'Illinois Tech IEEE Student Branch'
 description:         "IEEE@IIT is Illinois Tech's branch of the Institute of Electrical and Electronics Engineers (IEEE). Read the <a href='{{ site.baseurl }}/about/'>About Us page</a> to learn more."
-url:                 http://ieee.iit.io
-baseurl:             
+url:                 http://natashaw.github.io/website
+baseurl:             /website
 paginate:            5
 
 # About/contact
@@ -25,7 +25,7 @@ author:
 # Custom vars
 version:             1.0.0
 
-ftp_host: 'myftp.iit.edu'
-ftp_dir: '/www'
-ftp_passive: false
-ftp_username: 'ieee'
+# ftp_host: 'myftp.iit.edu'
+# ftp_dir: '/www'
+# ftp_passive: false
+# ftp_username: 'ieee'

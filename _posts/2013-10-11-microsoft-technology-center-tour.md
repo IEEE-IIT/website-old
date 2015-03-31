@@ -2,6 +2,7 @@
 title: Microsoft Technology Center Tour
 author: Eric Tendian
 layout: post
+category: home
 permalink: /event/microsoft-technology-center-tour/
 ---
 

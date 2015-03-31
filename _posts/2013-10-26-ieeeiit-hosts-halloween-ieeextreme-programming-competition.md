@@ -2,6 +2,7 @@
 title: IEEE@IIT hosts Halloween, IEEEXtreme programming competition
 author: Vijai
 layout: post
+category: home
 permalink: /2013/10/ieeeiit-hosts-halloween-ieeextreme-programming-competition/
 ---
 

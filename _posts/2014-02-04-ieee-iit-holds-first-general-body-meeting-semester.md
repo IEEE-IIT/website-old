@@ -2,6 +2,7 @@
 title: IEEE @IIT holds first general body meeting of semester
 author: Vijai
 layout: post
+category: home
 permalink: /2014/02/ieee-iit-holds-first-general-body-meeting-semester/
 ---
 

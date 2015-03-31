@@ -2,6 +2,7 @@
 title: IEEE Halloween BBQ
 author: Eric Tendian
 layout: post
+category: home
 permalink: /2014/10/ieee-halloween-bbq/
 ---
 

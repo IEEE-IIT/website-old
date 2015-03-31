@@ -2,6 +2,7 @@
 title: Introduction to Startups
 author: Eric Tendian
 layout: post
+category: home
 permalink: /event/introduction-to-startups/
 ---
 

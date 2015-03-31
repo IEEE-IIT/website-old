@@ -2,6 +2,7 @@
 title: IEEE Hack Chicago Challenge 2014
 author: Eric Tendian
 layout: post
+category: home
 permalink: /2014/09/ieee-hack-chicago-challenge-2014/
 ---
 

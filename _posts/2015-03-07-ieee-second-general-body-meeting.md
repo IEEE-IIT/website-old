@@ -2,7 +2,8 @@
 title: IEEE Held Second General Body Meeting
 author: Vijai Baskar
 layout: post
-permalink: /2015/03/ieee-second-general-body-meeting/
+category: home
+permalink: /2015/03/07/ieee-second-general-body-meeting/
 ---
 
 The Institute of Electrical and Electronics Engineers (IEEE) student chapter at IIT hosted their second general body meeting of the semester on Wednesday, February 25 at the Siegel Hall Auditorium. Vijai Baskar Sathyanarayanan, Newsletter Editor of IEEE @ IIT, an ECE graduate student, conducted the meeting by talking about all the events and activities that involved IEEE student branch during the spring semester.
@@ -15,4 +16,3 @@ The guest speaker for the event was Robert Burke, Student Branch Activity Chair 
 
 The IEEE @ IIT student branch plans to have company tours, and general body meetings, that will be conducted every month, typically during the last week. They will also have their signature barbeque event, which will be held mostly during the last week of April owing to the weather permitting the odds of the event, since it is an outdoor event. Information about these events will be sent out to students soon.
 
-Vijai Baskar

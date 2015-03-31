@@ -2,6 +2,7 @@
 title: Second General Body Meeting
 author: Eric Tendian
 layout: post
+category: home
 permalink: /2014/10/second-general-body-meeting/
 ---
 

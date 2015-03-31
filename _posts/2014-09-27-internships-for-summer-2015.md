@@ -2,6 +2,7 @@
 title: Internships for Summer 2015
 author: Eric Tendian
 layout: post
+category: home
 permalink: /2014/09/internships-for-summer-2015/
 ---
 

@@ -2,6 +2,7 @@
 title: NIDays Chicago
 author: Robert Burke
 layout: post
+category: home
 permalink: /2014/09/nidays-chicago/
 ---
 

@@ -2,6 +2,7 @@
 title: IEEE Chicago Section's 'Explore the Future' Technical Symposium & Exhibition
 author: Eric Tendian
 layout: post
+category: home
 permalink: /2014/10/ieee-chicago-explore-the-future-symposium/
 ---
 

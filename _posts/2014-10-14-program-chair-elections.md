@@ -2,6 +2,7 @@
 title: Program Chair Elections
 author: Eric Tendian
 layout: post
+category: home
 permalink: /2014/10/program-chair-elections/
 ---
 

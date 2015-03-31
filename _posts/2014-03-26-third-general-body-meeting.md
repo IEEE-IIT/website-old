@@ -2,6 +2,7 @@
 title: Third General Body Meeting
 author: Eric Tendian
 layout: post
+category: home
 permalink: /event/third-general-body-meeting/
 ---
 

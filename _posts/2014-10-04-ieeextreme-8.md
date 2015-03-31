@@ -2,6 +2,7 @@
 title: IEEEXtreme 8.0 - 24-Hour Programming Competition
 author: Robert Burke
 layout: post
+category: home
 permalink: /2014/09/ieeextreme-8/
 ---
 

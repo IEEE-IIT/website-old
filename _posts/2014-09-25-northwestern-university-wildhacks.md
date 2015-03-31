@@ -2,6 +2,7 @@
 title: Northwestern University WildHacks
 author: Robert Burke
 layout: post
+category: home
 permalink: /2014/09/northwestern-university-wildhacks/
 ---
 

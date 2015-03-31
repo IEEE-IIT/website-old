@@ -2,6 +2,7 @@
 title: Mandatory Safety Training for Project Members
 author: Eric Tendian
 layout: post
+category: home
 permalink: /2014/10/mandatory-safety-training/
 ---
 

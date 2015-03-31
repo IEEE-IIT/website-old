@@ -1,0 +1,45 @@
+---
+layout: page
+title: Job Opportunities
+weight: 5
+---
+<!-- INSERT INTRO PARAGRAPH -->
+
+<div class="posts">
+  {% for post in site.categories.jobs %}
+    {% if post.category == 'jobs' %}
+    <div class="post">
+    <h1 class="post-title">
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
+
+    <span class="post-date">{{ post.date | date: "%B %-d, %Y" }}</span>
+
+    {% if post.description %}
+        {{ post.description }}
+        </br><a href="{{ post.url }}" title="{{ post.title }}">Read more..</a>
+    {% else %}
+       {{ post.content }}
+    {% endif %}
+    
+    
+  </div>
+  {% endif %}
+ {% endfor %}
+</div>
+
+
+<div class="pagination">
+  {% if page.next %}
+    <a class="pagination-item older" href="{{ site.baseurl }}/page{{paginator.next_page}}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if page.previous %}
+    <a class="pagination-item newer" href="{{ site.baseurl }}/page{{paginator.previous_page}}">Newer</a>
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>
