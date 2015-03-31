@@ -32,7 +32,7 @@ weight: 0
         {{ post.title }}
       </a>
     </h1>
-    <span class="post-date">{{ post.author }}</span>
+    <span class="post-date">by: {{ post.author }}</span>
     <span class="post-date">{{ post.date | date: "%B %-d, %Y" }}</span>
 
     {% if post.description %}
