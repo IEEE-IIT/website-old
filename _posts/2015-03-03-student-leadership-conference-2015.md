@@ -39,8 +39,3 @@ Kann has over 30 years of experience in industrial automation and manufacturing 
 by an awards function where students who won prizes, as well as the organizers of the event were felicitated. 
 
 The conference was a great learning experience for all participants.
-
-<<<<<<< HEAD
-
-=======
->>>>>>> a4fc4f046f990ca427448289058df53a23f68ad8
