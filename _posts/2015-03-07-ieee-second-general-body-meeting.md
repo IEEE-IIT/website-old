@@ -3,6 +3,7 @@ title: IEEE Held Second General Body Meeting
 author: Vijai Baskar
 layout: post
 category: home
+description: The Institute of Electrical and Electronics Engineers (IEEE) student chapter at IIT hosted their second general body meeting of the semester on Wednesday, February 25 at the Siegel Hall Auditorium. Vijai Baskar Sathyanarayanan, Newsletter Editor of IEEE @ IIT, an ECE graduate student, conducted the meeting by talking about all the events and activities that involved IEEE student branch during the spring semester.
 permalink: /2015/03/07/ieee-second-general-body-meeting/
 ---
 
