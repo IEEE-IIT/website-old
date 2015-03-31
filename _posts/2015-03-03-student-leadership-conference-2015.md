@@ -3,6 +3,13 @@ title: IEEE Attended Student Leadership Conference in Wisconsin
 author: Vijai Baskar
 layout: post
 category: home
+description: The Institute of Electrical and Electronics Engineers (IEEE) held their Region 4 Student Leadership Conference at the 
+University of Wisconsin-Madison from Friday, February 6 to Sunday, February 8. Eight members from the IEEE student chapter 
+at IIT, as well as students from other institutions in the region attended the conference. IEEE Region 4 covers student and 
+professional members in the states of Illinois, Indiana, Iowa, Michigan, Minnesota, Nebraska, North and South Dakota, Ohio, 
+and Wisconsin, within the United States, and also the Windsor area in Canada. Of these regions, the attendees comprised of 
+student branches from 17 universities. The attendees were taken on a company tour to Epic systems, a health care software 
+company headquartered in Verona, Wisconsin, where they were shown how the company works and their culture and ethics.
 permalink: /2015/03/student-leadership-conference-2015/
 ---
 
