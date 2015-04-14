@@ -1,4 +1,4 @@
- ---
+---
 title: Job Postings - April
 author: Natasha Wijoyo
 layout: post
@@ -10,7 +10,7 @@ description: Below you can find some job opportunities that are posted on Jobs4H
 Below you can find some job opportunities that are posted on Jobs4Hawks this past two weeks. Job postings will be updated bi-weekly. Cannot find the job you want? Login on [https://iit-csm.symplicity.com/students/](Jobs4Hawks) and search for more options.
 
 ### ECE
-# Electrical Engineer, Substation Test & Commissioning
+#### Electrical Engineer, Substation Test & Commissioning
 Posting Date: April 13, 2015
 Available until: May 13, 2015
 Employer: TRC Engineering
@@ -44,7 +44,7 @@ Knowledge, Skills, Abilities
 9.	Able to operate computers and associated programs at the level required to successfully perform the essential responsibilities of the position.
 10.	Possess valid driver’s license
 
-# Electrical Engineer – Recent Graduate
+#### Electrical Engineer – Recent Graduate
 Posting Date: April 07, 2015
 Available until: April 22, 2015
 Employer: WAPA / FYi: For Your Information Inc.
@@ -73,9 +73,9 @@ WAPA is one of four power marketing administrations within the U.S. Department o
 The system protection engineer, this career developmental position will develop into that of a power system protection and commissioning engineer, providing support for maintenance, troubleshooting, and replacement of high voltage substation equipment, controls, and protective relaying. As a field protection and commissioning engineer, this position will be responsible for preparing drawings for equipment replacement, reviewing system operations to determine proper operation of protection and controls, working with technicians on metering and relaying maintenance procedures, verifying relay settings, and assisting with the commissioning work associated with equipment installations.
 
 QUALIFICATIONS:
-1) U.S. Citizen
-2) Have graduated from an accredited educational institution within the last two years or be graduating by June 30, 2015 from a degree program from an accredited educational institution. 
-3) For more information on degree/experience/ and education please go here: http://1.usa.gov/1D7l4ZZ
+1. U.S. Citizen
+2. Have graduated from an accredited educational institution within the last two years or be graduating by June 30, 2015 from a degree program from an accredited educational institution. 
+3. For more information on degree/experience/ and education please go here: http://1.usa.gov/1D7l4ZZ
 
 
 For a direct link to the Electrical Engineer – Recent Graduate position on the Federal government USAJOBS website click here: [http://1.usa.gov/1D7l4ZZ](http://1.usa.gov/1D7l4ZZ)
@@ -88,7 +88,7 @@ FYI, Inc.
 Tbouret@fyinfo.com
 301-586-8500
 
-# IT Systems & Instrumentation Intern
+#### IT Systems & Instrumentation Intern
 Posting Date: April 07, 2015
 Available until: May 07, 2015
 Employer: LanzaTech
@@ -112,7 +112,7 @@ Basic Qualifications:
 
 This position is open to candidates authorized to work in the United States on a full-time basis for any employer. LanzaTech is an Equal Employment Opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, or national origin.
 
-# Machinist/ Electrician
+#### Machinist/ Electrician
 Posting Date: April 02, 2015
 Available until: May 01, 2015
 Employer: Dudek & Bock Spring Manufacturing Co.
@@ -124,7 +124,7 @@ QUALIFICATIONS
 This position is to perform electrical and mechanical repairs of plant machinery. Responsibilities will be to repair motors and generators, also to repair or replace wiring, equipment, and fixtures, using hand tools and power tools. This position is to ensure the proper functioning of all electrical units in the facility, must be able to read blueprints and follow a plan layout based on job specifications and codes. This candidate must have knowledge of machines and tools, including their designs, uses, repair, and maintenance. This position will also trouble shoot and resolve, diagnose malfunctioning systems, apparatus, and components, using test equipment and hand tools, to locate the cause of a breakdown and correct the problem. Knowledge of machines and tools, including their designs, uses, repair and maintenance is a plus. Successful candidate must have a minimum of 5 years experience. We offer excellent compensation and benefits and the ability to grow with an aggressive organization that will reward your talents.
 
 ### MMAE
-# AUTOCAD TECHNICIAN
+#### AUTOCAD TECHNICIAN
 Posting Date: April 10, 2015
 Available until: May 09, 2015
 Employer: Carnow, Conibear & Assoc., Ltd
@@ -146,7 +146,7 @@ Requirements include:
 
 This is a terrific opportunity for a dynamic individual. Carnow Conibear offers a competitive compensation/benefits package and opportunities for growth.
 
-# Design / Mechanical Engineer
+#### Design / Mechanical Engineer
 Posting Date: April 02, 2015
 Available until: May 01, 2015
 Employer: Dudek & Bock Spring Manufacturing Co.
@@ -154,7 +154,7 @@ Link: [http://www.dudek-bock.com/](http://www.dudek-bock.com/)
 
 The primary purpose of this position is to provide engineering expertise through custom design of tools dies, custom made equipment and gauges for new and existing parts to meet customer requirements. Must have extensive background of TIG and MIG welding design and applications; in both manual and automated technology. The position is responsible for preparing quotations for new tooling orders and works in conjunction with inside sales to quote and design parts to comply with the customer's quality and engineering specifications. This position also assists customers through direct contact with their engineering department to resolve manufacturing problems. Critical to the success of the position is the ability to work well within the Business Team environment. Prefer a B.S. degree in Engineering or Mechanical Technology. Successful candidate must be familiar with automotive requirements, TS-16949 procedures and have a minimum of 5 - 8 years experience. We offer excellent compensation and benefits and the ability to grow with an aggressive organization that will reward your talents.
 
-# Mechanical Engineer
+#### Mechanical Engineer
 Posting Date: March 27, 2015
 Available until: April 30, 2015
 Employer: IDEX Corporation
@@ -170,7 +170,7 @@ Participate directly in the design and development of new fluidic sub-systems to
 Participate in Innovation Sessions to address improvement in ergonomics, serviceability, cost, software, and overall function
 Hands-on work to build prototypes, test fixtures, design of experiments, and supporting data acquisition.
 
-# Design Engineer Co-op
+#### Design Engineer Co-op
 Posting Date: March 30, 2015
 Available until: April 29, 2015
 Employer: Elgin Sweeper
@@ -185,20 +185,20 @@ Key Activities/Responsibilities
 Under the supervision of a design engineer, the DESIGN ENGINEERING INTERN/CO-OP will perform the following duties:
 
 Production Support :
-1.Support production by providing engineering services as required ensuring that manufactured product meets design intent; 
-2.Troubleshoot mechanical, electrical and hydraulic systems as required to assist production; 
-3.Respond to Engineering Change Requests (ECRs) submitted by internal customers by evaluating request and initiating design changes (ECNs) as required;
-4.Review Assembly Work Instructions; assist ME’s in creation of WI’s by creating drawings or illustrations as needed to convey design intent.
+1. Support production by providing engineering services as required ensuring that manufactured product meets design intent; 
+2. Troubleshoot mechanical, electrical and hydraulic systems as required to assist production; 
+3. Respond to Engineering Change Requests (ECRs) submitted by internal customers by evaluating request and initiating design changes (ECNs) as required;
+4. Review Assembly Work Instructions; assist ME’s in creation of WI’s by creating drawings or illustrations as needed to convey design intent.
 
 Design:
-1.Design complex components, simple mechanisms. Assist with drafting and detailing of components.
+1. Design complex components, simple mechanisms. Assist with drafting and detailing of components.
 
 Troubleshoot and Support:
-1.Investigate and solve service issues (PPI’s); 
-2.Investigate and solve manufacturing issues (ECR’s).
+1. Investigate and solve service issues (PPI’s); 
+2. Investigate and solve manufacturing issues (ECR’s).
 
 Reporting :
-1.Create a weekly progress report and provide a formal presentation at the conclusion of the internship.
+1. Create a weekly progress report and provide a formal presentation at the conclusion of the internship.
 
 Skills Required :
 *Willing and able to work a minimum of 20 - 24 hours per week for up to 1 year in duration. 
@@ -216,7 +216,7 @@ Skills Required :
 *Ability to receive guidance and coaching from area manager as needed.
 
 ### CHBE
-# Associate Engineer
+#### Associate Engineer
 Posting Date: March 27, 2015
 Available until: April 26, 2015
 Employer: Cascade Solutions
