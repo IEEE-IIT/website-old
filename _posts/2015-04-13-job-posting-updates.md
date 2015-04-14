@@ -4,7 +4,7 @@ author: Natasha Wijoyo
 layout: post
 category: jobs
 permalink: /2015/04/13/job-posting-updates/
-description: Below you can find some job opportunities that are posted on Jobs4Hawks this past two weeks. Job postings will be updated bi-weekly. Cannot find the job you want? Login on [Jobs4Hawks](https://iit-csm.symplicity.com/students/) and search for more options.
+description: Below you can find some job opportunities that are posted on Jobs4Hawks this past two weeks. Job postings will be updated bi-weekly. Cannot find the job you want? Login on Jobs4Hawks and search for more options.
 ---
 
 Below you can find some job opportunities that are posted on Jobs4Hawks this past two weeks. Job postings will be updated bi-weekly. Cannot find the job you want? Login on [https://iit-csm.symplicity.com/students/](Jobs4Hawks) and search for more options.
