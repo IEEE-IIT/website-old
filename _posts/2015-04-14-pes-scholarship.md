@@ -1,10 +1,15 @@
 ---
-published: false
+title: A Scholarship for Undergraduate Electrical Engineering Students in the U.S. and Canada
+author: Natasha Wijoyo
+layout: post
+category: home
+permalink: /2015/04/2014/pes-scholarship/
+description: Hello fellows, IEEE@IIT wants to announce this very special opportunity, which is a scholarship sponsored by The IEEE Power and Energy Society (PES).
 ---
 
-## A Scholarship for Undergraduate Electrical Engineering Students in the U.S. and Canada
+![pes-logo](https://cloud.githubusercontent.com/assets/9169502/7152113/d3d3916c-e2fa-11e4-9464-3264d5ec59dd.png)
 
-Check [your eligibility](http://www.ee-scholarship.org/how-it-works/students/scholarship-requirements/eligibility/) and [apply here](https://ieee.communityforce.com/Login.aspx?ID=6a9f9ba4-7352-471a-aa22-a0db6acdd536).
+Hello fellows, IEEE@IIT wants to announce this very special opportunity, which is a scholarship sponsored by The IEEE Power and Energy Society (PES). Check [your eligibility](http://www.ee-scholarship.org/how-it-works/students/scholarship-requirements/eligibility/) and [apply here](https://ieee.communityforce.com/Login.aspx?ID=6a9f9ba4-7352-471a-aa22-a0db6acdd536).
 
 ### About IEEE/PES
 The IEEE Power & Energy Society (PES) provides the world's largest forum for sharing the latest in technological developments in the electric power industry, for developing standards that guide the development and construction of equipment and systems and for educating members of the industry and the general public. Members of the Power & Energy Society are leaders in this field, and they and their employers derive substantial benefits from involvement with this unique and outstanding association.
