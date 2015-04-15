@@ -33,4 +33,5 @@ Enrolled at accredited universities in the U.S. or Canada
 * Eager to explore the field through career experiences  
 * U.S. or Canadian citizens and permanent residents
 
-Check their official [website](http://www.ee-scholarship.org/) for more info
+Check their official [website](http://www.ee-scholarship.org/) for more info.  
+
