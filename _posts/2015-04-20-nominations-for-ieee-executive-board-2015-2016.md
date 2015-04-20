@@ -6,7 +6,7 @@ category: home
 permalink: /2015/04/20/nominations-for-ieee-executive-board-2015-2016/
 description:
 ---
-As you all might have known, IEEE is currently recruiting new board members. Application was spread out by e-mail through April 17th. Now as the nominations are in, check out their profiles by clicking each of the positions below to see who is running for which position. 
+As you all might have known, IEEE is currently recruiting new board members. Application was spread out by e-mail through April 17th. Voting opens until Tuesday 04/21 at 11.59pm. The poll is spread out by e-mail and is also available on IEEE Facebook Page. Now as the nominations are in, check out their profiles by clicking each of the positions below to see who is running for which position. 
 
 <div onClick="openClose('a1')" style="cursor:hand; cursor:pointer"><h3>President</h3></div>
 <div id="a1" class="texter">
@@ -120,3 +120,4 @@ I have been an active member of IEEE from my Undergraduate years, be it involvin
 
 <br />
 </div>
+
