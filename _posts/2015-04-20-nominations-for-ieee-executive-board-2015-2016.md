@@ -60,7 +60,7 @@ I have been getting involved with IEEE since my undergraduate. I have always bee
 </div>
 
 <div onClick="openClose('a4')" style="cursor:hand; cursor:pointer"><h3>Membership Chair</h3></div>
-<div id="a3" class="texter">
+<div id="a4" class="texter">
 <p><b>Jay Sharma</b></br>
 <u>Nominated by: Jay Joshi</u> </br>
 <u>Current year in school:</u> Graduate (Masters, PhD)</br>
@@ -89,7 +89,7 @@ With Adi, there is an unseen future for IEEE. A future we can trust in, believe 
 </div>
 
 <div onClick="openClose('a5')" style="cursor:hand; cursor:pointer"><h3>Program Chair</h3></div>
-<div id="a3" class="texter">
+<div id="a5" class="texter">
 <p><b>Viral Mehta</b></br>
 <u>Nominated by: Jay Joshi</u> </br>
 <u>Current year in school:</u> Graduate (Masters, PhD)</br>
@@ -100,7 +100,7 @@ I have been passionate about managing and organizing events. I have worked in th
 </div>
 
 <div onClick="openClose('a6')" style="cursor:hand; cursor:pointer"><h3>Project Chair</h3></div>
-<div id="a3" class="texter">
+<div id="a6" class="texter">
 <p><b>Brandon Dotson</b></br>
 <u>Nominated by: Ming Chen</u> </br>
 <u>Current year in school:</u> Undergraduate (3rd year)</br>
