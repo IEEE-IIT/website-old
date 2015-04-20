@@ -8,7 +8,7 @@ description:
 ---
 As you all might have known, IEEE is currently recruiting new board members. Application was spread out by e-mail through April 17th. Now as the nominations are in, check out their profiles by clicking each of the positions below to see who is running for which position. 
 
-<div onClick="openClose('a1')" style="cursor:hand; cursor:pointer"><b>President</b></div>
+<div onClick="openClose('a1')" style="cursor:hand; cursor:pointer"><h3>President</h3></div>
 <div id="a1" class="texter">
 <p><b>Wenlong Gong</b></br>
 <u>Nominated by:</u> Mehdi Ganji</br>
@@ -29,7 +29,7 @@ I have been getting involved with IEEE since my undergraduate. I have always bee
 <br />
 </div>
 
-<div onClick="openClose('a2')" style="cursor:hand; cursor:pointer"><b>Vice President</b></div>
+<div onClick="openClose('a2')" style="cursor:hand; cursor:pointer"><h3>Vice President</h3></div>
 <div id="a2" class="texter">
 <p><b>Panth Shah</b></br>
 <u>Nominated by:</u> Jay Joshi</br>
@@ -48,7 +48,7 @@ I have been getting involved with IEEE since my undergraduate. I have always bee
 <br />
 </div>
 
-<div onClick="openClose('a3')" style="cursor:hand; cursor:pointer"><b>Secretary Internal</b></div>
+<div onClick="openClose('a3')" style="cursor:hand; cursor:pointer"><h3>Secretary Internal</h3></div>
 <div id="a3" class="texter">
 <p><b>Panth Shah</b></br>
 <u>Nominated by:</u> </br>
@@ -59,7 +59,7 @@ I have been getting involved with IEEE since my undergraduate. I have always bee
 <br />
 </div>
 
-<div onClick="openClose('a4')" style="cursor:hand; cursor:pointer"><b>Membership Chair</b></div>
+<div onClick="openClose('a4')" style="cursor:hand; cursor:pointer"><h3>Membership Chair</h3></div>
 <div id="a3" class="texter">
 <p><b>Jay Sharma</b></br>
 <u>Nominated by: Jay Joshi</u> </br>
@@ -88,7 +88,7 @@ With Adi, there is an unseen future for IEEE. A future we can trust in, believe 
 <br />
 </div>
 
-<div onClick="openClose('a5')" style="cursor:hand; cursor:pointer"><b>Program Chair</b></div>
+<div onClick="openClose('a5')" style="cursor:hand; cursor:pointer"><h3>Program Chair</h3></div>
 <div id="a3" class="texter">
 <p><b>Viral Mehta</b></br>
 <u>Nominated by: Jay Joshi</u> </br>
@@ -99,7 +99,7 @@ I have been passionate about managing and organizing events. I have worked in th
 <br />
 </div>
 
-<div onClick="openClose('a6')" style="cursor:hand; cursor:pointer"><b>Project Chair</b></div>
+<div onClick="openClose('a6')" style="cursor:hand; cursor:pointer"><h3>Project Chair</h3></div>
 <div id="a3" class="texter">
 <p><b>Brandon Dotson</b></br>
 <u>Nominated by: Ming Chen</u> </br>
