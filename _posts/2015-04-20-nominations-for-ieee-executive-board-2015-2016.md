@@ -62,19 +62,19 @@ I have been getting involved with IEEE since my undergraduate. I have always bee
 <div onClick="openClose('a4')" style="cursor:hand; cursor:pointer"><h3>Membership Chair</h3></div>
 <div id="a4" class="texter">
 <p><b>Jay Sharma</b></br>
-<u>Nominated by: Jay Joshi</u> </br>
+<u>Nominated by:</u> Jay Joshi</br>
 <u>Current year in school:</u> Graduate (Masters, PhD)</br>
 <u>Why are you interested in this position?</u></br>
 Eagerly waiting for a platform which shall provide me an opportunity to use my talent and benefit the organization. I have been a part of IEEE during my undergraduate. I have strong knowledge on the benefits of being an IEEE member and can market it well.
 </p>
 <p><b>Javier Sorribes Camargo</b></br>
-<u>Nominated by: Aditya Parakh</u> </br>
+<u>Nominated by:</u> Aditya Parakh </br>
 <u>Current year in school:</u> Undergraduate (1st year)</br>
 <u>Why are you interested in this position?</u></br>
 I think that IEEE needs diversity. I come from Spain with a very strong background and awesome ideas that will make IEEE @ IIT move forward!!!
 </p>
 <p><b>Aditya Parakh</b></br>
-<u>Nominated by: Javier Sorribes</u> </br>
+<u>Nominated by:</u> Javier Sorribes </br>
 <u>Current year in school:</u> Undergraduate (1st year)</br>
 <u>Why are you interested in this position?</u></br>
 I was born in New Delhi, India. I spent my childhood years in Jaipur, Rajasthan, India. I then spent my teenage years growing up in Bangkok, Thailand. I believe that this diverse background puts me in the position where I can help take advantage of IIT's diverse population. IIT has a lot of undergraduates/graduates in the ECE department but very few are actually part of IEEE. I firmly affirm that with my communication skills, I will be able to reach a wider audience. </br></br>
@@ -91,7 +91,7 @@ With Adi, there is an unseen future for IEEE. A future we can trust in, believe 
 <div onClick="openClose('a5')" style="cursor:hand; cursor:pointer"><h3>Program Chair</h3></div>
 <div id="a5" class="texter">
 <p><b>Viral Mehta</b></br>
-<u>Nominated by: Jay Joshi</u> </br>
+<u>Nominated by:</u> Jay Joshi </br>
 <u>Current year in school:</u> Graduate (Masters, PhD)</br>
 <u>Why are you interested in this position?</u></br>
 I have been passionate about managing and organizing events. I have worked in this domain at volunteering as well as professional level. I have been a part of college festivals (undergraduate). Also my work experience included a lot of management and organizational skills. This makes me a fit for the position of Program Chair at IEEE-IIT
@@ -102,7 +102,7 @@ I have been passionate about managing and organizing events. I have worked in th
 <div onClick="openClose('a6')" style="cursor:hand; cursor:pointer"><h3>Project Chair</h3></div>
 <div id="a6" class="texter">
 <p><b>Brandon Dotson</b></br>
-<u>Nominated by: Ming Chen</u> </br>
+<u>Nominated by:</u> Ming Chen </br>
 <u>Current year in school:</u> Undergraduate (3rd year)</br>
 <u>Why are you interested in this position?</u></br>
 I am interested in this position because I have been working on an IEEE project for two consecutive semesters. In this short span of time, I have seen our project go from being one that did not work too well to relatively successful. From this, I believe I have a good sense of what to look for when it comes to how projects are handled.</br></br>
