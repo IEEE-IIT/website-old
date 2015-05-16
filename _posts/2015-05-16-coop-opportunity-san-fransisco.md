@@ -24,19 +24,26 @@ We're looking for our second class of Software Development Interns. As a Vessel 
 
 ###Technology Stack:
 We're big believers in trusting the team to debate and select the right tools for the job. This belief leads to a development team that is excited by and comfortable with building in a variety of languages, frameworks and platforms. We don’t expect that you have experience with these tools but we do expect that you have the tenacity to learn. Here's a short list of some of the current technology and tools we use to fuel the team.  
+
 Platform: AWS EC2, Docker  
+
 Languages: CoffeeScript, Python, Objective-C, Swift  
+
 Frameworks: Node.js, React, Backbone, Flask  
+
 Databases: PostgreSQL, Redis   
-Tools: Github, Jenkins, HipChat, Google Apps  
+
+Tools: Github, Jenkins, HipChat, Google Apps 
+
 Fuel: Coke Zero, Cherry Coke, Talking Rain, Milk, OJ, Coconut Water, Blue Bottle // a rotation including favorites like Runts, Peeled Snacks, Seaweed, Popcorn // Dinner (Sprig, Zero-Cater, GrubHub, etc.)  
+
 Music: Pandora, Spotify  
 
 ###Engineering Challenges:
 Vessel is a customer focused technology company whose mission is to build platforms and services that delight both consumers and content creators alike. If our engineering team had to be recognized for one thing we would want that to be Quality.
 We believe in owning and building our core services. With that, we recognize that we must be armed with a team that includes both full stack and specialized developers. Here are few of the experiences we're looking for in our dev team:  
-* Full stack responsive web development  
-* Device platforms and hybrid applications development  
+* Full stack responsive web development
+* Device platforms and hybrid applications development
 * Deep knowledge of video encoding and transcode farms  
 * Architect & implement a distributed data analysis and metrics platform  
 * Design & implement machine learning models that evaluate hundreds of features  
