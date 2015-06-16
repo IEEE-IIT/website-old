@@ -32,8 +32,6 @@ Up to one year with three mandatory one-week break periods during the school yea
 **Compensation**  
 Paid internship
 
-Send your cover letter (which must include the position title), resume, class schedule, and copy of transcripts to the following e-mail address.
-
 ###Intern Engineering Computer Associate
 
 The Metra Internship Program provides an opportunity for college juniors, seniors and graduate students to gain practical experience through on-the-job learning. Metra assigns students to projects related to their academic/educational field of study, which complements classroom instruction. The knowledge gained contributes to career development, while the experience provides insight on the wide variety of jobs in the transportation industry.
