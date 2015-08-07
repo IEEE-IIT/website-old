@@ -28,17 +28,17 @@ The officers listed below are elected annually at the second to last general bod
 
 ### Executive Board 2014-2015
 
-* President: Rohit Agarwal <[ragarwa6@hawk.iit.edu](mailto:ragarwa6@hawk.iit.edu)>
-* Vice President: Sankesh Jain <[sjain44@hawk.iit.edu](mailto:sjain44@hawk.iit.edu)>
-* Treasurer: Subarno Saha <[ssaha8@hawk.iit.edu](mailto:ssaha8@hawk.iit.edu)>
-* Secretary (Internal): Kecheng Liu <[kliu6@hawk.iit.edu](mailto:kliu6@hawk.iit.edu)>
-* Secretary (External): Ambika Abinavavidyatheerthan <[aabinava@hawk.iit.edu](mailto:aabinava@hawk.iit.edu)>
-* Membership Chair: Saaduzzaman Syed <[ssyed9@hawk.iit.edu](mailto:ssyed9@hawk.iit.edu)>
-* Publicity Chair: Isabelle Sophie Guitard <[iguitard@hawk.iit.edu](mailto:iguitard@hawk.iit.edu)>
-* Project Chair: Ming Chen <[mchen50@hawk.iit.edu](mailto:mchen50@hawk.iit.edu)>
-* Program Chair: Jay Joshi <[jjoshi6@hawk.iit.edu](mailto:jjoshi6@hawk.iit.edu)>
+* President: Panth Shah <[pshah80@hawk.iit.edu](mailto:pshah80@hawk.iit.edu)>
+* Vice President: Mete Morris <[mmorri13@hawk.iit.edu](mailto:mmorri13@hawk.iit.edu)>
+* Treasurer: - <[ssaha8@hawk.iit.edu](mailto:ssaha8@hawk.iit.edu)>
+* Secretary (Internal): - <[](mailto:dummies@hawk.iit.edu)>
+* Secretary (External): - <[](mailto:dummies@hawk.iit.edu)>
+* Membership Chair: Jay Sharma <[jsharma3@hawk.iit.edu](mailto:jsharma3@hawk.iit.edu)>
+* Publicity Chair: - <[](mailto:dummies@hawk.iit.edu)>
+* Project Chair: Nikita Vijay Chandapur <[nchandap@hawk.iit.edu](mailto:nchandap@hawk.iit.edu)>
+* Program Chair: Viral Mehta <[vmehta12@hawk.iit.edu](mailto:vmehta12@hawk.iit.edu)>
 * Industry Relations: Sreeram Haridas <[sharida3@hawk.iit.edu](mailto:sharida3@hawk.iit.edu)>
-* Newsletter Editor: Jai Vijai Baskar Sathyanarayanan <[jsathyan@hawk.iit.edu](mailto:jsathyan@hawk.iit.edu)>
+* Newsletter Editor: - <[](mailto:dummies@hawk.iit.eduu)>
 * Webmaster: Natasha Wijoyo <[nwijoyo@hawk.iit.edu](mailto:nwijoyo@hawk.iit.edu)>
 
 **Mentors:**
